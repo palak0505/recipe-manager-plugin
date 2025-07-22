@@ -22,17 +22,17 @@ All submitted recipes are automatically saved with a "Pending Review" status, gi
 * **User-Friendly Frontend Submission Form:** A simple shortcode `[recipe_submit_form]` can be placed on any page to render a form where logged-in users can submit new recipes directly.
 
     **Screenshot of Frontend Submission Form:**
-    ![Frontend Submission Form](assets/screenshots/screenshot-frontend-form.png "Recipe Submission Form")
+    ![Frontend Submission Form](assets/screenshorts/screenshot-frontend-form.png "Recipe Submission Form")
 
 * **Robust Admin Review System:** All recipes submitted from the frontend are automatically marked as "Pending Review", ensuring administrators can moderate content before publishing.
 
     **Screenshot of Pending Recipes in Admin:**
-    ![Pending Recipes in Admin](assets/screenshots/screenshot-pending-recipes.png "Pending Recipe Submissions")
+    ![Pending Recipes in Admin](assets/screenshorts/screenshot-pending-recipes.png"Pending Recipe Submissions")
 
 * **Dedicated Single Recipe Template:** Displays all recipe details beautifully on the frontend, integrating seamlessly with your theme (via `single-recipe.php`).
 
     **Screenshot of a Published Recipe:**
-    ![Published Recipe](assets/screenshots/screenshot-single-recipe.png "Frontend Display of a Recipe")
+    ![Published Recipe](assets/screenshorts/screenshot-single-recipe.png "Frontend Display of a Recipe")
 
 * **Essential Security Measures:** Implements WordPress Nonces for secure form submissions and restricts frontend submissions to logged-in users.
 
