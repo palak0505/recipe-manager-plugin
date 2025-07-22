@@ -1,0 +1,10 @@
+/* Optional admin specific styles, e.g., to style meta box fields */
+#rmp_recipe_details label {
+    font-weight: bold;
+}
+#rmp_recipe_details p.description {
+    font-style: italic;
+    color: #666;
+    margin-top: 5px;
+    font-size: 0.9em;
+}
