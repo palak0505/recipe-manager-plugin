@@ -27,7 +27,7 @@ All submitted recipes are automatically saved with a "Pending Review" status, gi
 * **Robust Admin Review System:** All recipes submitted from the frontend are automatically marked as "Pending Review", ensuring administrators can moderate content before publishing.
 
     **Screenshot of Pending Recipes in Admin:**
-    ![Pending Recipes in Admin](assets/screenshorts/screenshot-pending-recipes.png"Pending Recipe Submissions")
+    ![Pending Recipes in Admin](assets/screenshorts/screenshot-pending-recipes.png "Pending Recipe Submissions")
 
 * **Dedicated Single Recipe Template:** Displays all recipe details beautifully on the frontend, integrating seamlessly with your theme (via `single-recipe.php`).
 
